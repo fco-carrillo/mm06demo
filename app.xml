@@ -2,6 +2,7 @@
 
 <data>
 	 <application name="MM06 demo samurai">
+			<description>This openGL ES2 demo shows a 3D samurai with animations</description>
                         <command>gplay crab.avi &amp;</command>
                         <route>/mm06</route>
          </application>
