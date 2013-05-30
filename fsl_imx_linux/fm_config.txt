@@ -1,4 +1,4 @@
--data=./3dmm_demo.fms
+-data=3dmm_demo.fms
 -width=1024
 -height=768
 -results=results.txt

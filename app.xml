@@ -3,9 +3,10 @@
 <data>
 	<module name="OpenGL">
 		 <application name="MM06 demo samurai">
-				<description>This openGL ES2 demo shows a 3D samurai with animations</description>
-        	                <command>gplay crab.avi &amp;</command>
+				<description>This openGL ES1 demo shows a 3D samurai with animations, after that comes a 3D game play simulation followed by a series of 3D texture and model examples.</description>
+        	                <command>./demos/mm06demo/command.exc &amp;</command>
         	                <route>/mm06</route>
+				<image>samurai.jpg</image>
         	 </application>
 	</module>
 
