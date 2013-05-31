@@ -6,7 +6,7 @@
 cd demos/mm06demo/fsl_imx_linux
 
 
-./fm_oes_player
+./fm_oes_player 
 
 cd -
 
